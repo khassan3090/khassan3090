@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Hassan 
+🚀 Cloud & DevOps Engineer | AWS | Kubernetes | Infrastructure as Code  
 
-<!--
-**khassan3090/khassan3090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Passionate about building scalable and resilient cloud architectures.  
+🔹 Specializing in Kubernetes, Terraform, CI/CD, and automation.  
+🔹 Experienced in migrating applications (Ruby, Java, Node.js) to EKS & ECS with zero downtime.  
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/hassanismailzai/) 
